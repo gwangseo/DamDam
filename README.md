@@ -1,10 +1,10 @@
 # DamDam
 
 App Name: 담담(DamDam) 
-ㅡㅡㅡ 
 Google Play Store: https://play.google.com/store/apps/details?id=com.lucky7.DamDam
 Instagram: @damdam._.official
-ㅡㅡㅡ 
+
+
 # App Description:
 
 담담은 친구, 연인, 가족, 혹은 처음 만난 사람과의 대화를 더 깊고 의미 있게 만들어주는 AI 기반 대화 지원 서비스입니다.
@@ -36,7 +36,6 @@ Instagram: @damdam._.official
 
 
 
-ㅡㅡㅡ 
 # Teemates:
 임○○: 기획자 
 김○○: 디자인 
@@ -44,7 +43,9 @@ Instagram: @damdam._.official
 이○○: 백엔드
 최○○: 백엔드
 박광서: 안드로이드 앱개발 
-ㅡㅡㅡ 
+
+
+
 # My Role: 안드로이드 앱개발 
 
 - 홈 화면 
@@ -58,7 +59,8 @@ Instagram: @damdam._.official
 
 클린 아키텍처(UI, Domain, Data 분리)와 MVVM 패턴에 신경을 써서 개발해보았다. 
 
-ㅡㅡㅡ 
+
+
 # Development Environment / Tools (개발환경 및 툴) 
 Language(언어): Kotlin, Java 
 Server(서버): Naver Cloud Platform(NCP) 
@@ -66,7 +68,9 @@ Server(서버): Naver Cloud Platform(NCP)
 IDE: Android Studio 
 Application Version: minSdkVersion(), targetSdkVersion() 
 API: KAKAO Login API 
-ㅡㅡㅡ 
+
+
+
 # Collaborations 
 Pigma, Notion, Git, Discord, Swagger 
 
