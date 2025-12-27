@@ -66,10 +66,10 @@ MVVM 패턴
 - 대화 기록 관리 및 히스토리 조회, 즐겨찾기 
 - 대화 분석 리포트 생성 시스템 
 - Jetpack Compose 기반 인터페이스 (곡선형/반응형 커스템 네비게이션) 
+    
+    
 
-
-
-<br />
+<br />    
 # Development Environment / Tools (개발환경 및 툴) 
 - Language(언어): Kotlin, Java 
 - Server(서버): Naver Cloud Platform(NCP) 
@@ -79,7 +79,7 @@ MVVM 패턴
 - API: KAKAO Login API 
 
 
-<br />
+<br />    
 # Collaborations 
 - Pigma
 - Notion
