@@ -1,8 +1,8 @@
 # DamDam
 
-App Name: 담담(DamDam) 
-Google Play Store: https://play.google.com/store/apps/details?id=com.lucky7.DamDam
-Instagram: @damdam._.official
+- App Name: 담담(DamDam) 
+- Google Play Store: https://play.google.com/store/apps/details?id=com.lucky7.DamDam
+- Instagram: @damdam._.official
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/001ed789-a7c9-4494-aa20-16149954dcba" />
 
@@ -66,17 +66,21 @@ Instagram: @damdam._.official
 
 
 # Development Environment / Tools (개발환경 및 툴) 
-Language(언어): Kotlin, Java 
-Server(서버): Naver Cloud Platform(NCP) 
-프레임워크: Spring Boot 
-IDE: Android Studio 
-Application Version: minSdkVersion(), targetSdkVersion() 
-API: KAKAO Login API 
+- Language(언어): Kotlin, Java 
+- Server(서버): Naver Cloud Platform(NCP) 
+- 프레임워크: Spring Boot 
+- IDE: Android Studio 
+- Application Version: minSdkVersion(), targetSdkVersion() 
+- API: KAKAO Login API 
 
 
 
 # Collaborations 
-Pigma, Notion, Git, Discord, Swagger 
+- Pigma
+- Notion
+- Git
+- Discord
+- Swagger 
 
 
 
