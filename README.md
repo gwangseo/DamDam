@@ -37,7 +37,7 @@ Instagram: @damdam._.official
 
 
 ㅡㅡㅡ 
-##Teemates:## 
+# Teemates:
 임○○: 기획자 
 김○○: 디자인 
 김○○: 디자인 
@@ -45,7 +45,7 @@ Instagram: @damdam._.official
 최○○: 백엔드
 박광서: 안드로이드 앱개발 
 ㅡㅡㅡ 
-##My Role: 안드로이드 앱개발## 
+# My Role: 안드로이드 앱개발 
 
 - 홈 화면 
 - 카카오 소셜 로그인 
@@ -59,7 +59,7 @@ Instagram: @damdam._.official
 클린 아키텍처(UI, Domain, Data 분리)와 MVVM 패턴에 신경을 써서 개발해보았다. 
 
 ㅡㅡㅡ 
-##Development Environment / Tools (개발환경 및 툴)## 
+# Development Environment / Tools (개발환경 및 툴) 
 Language(언어): Kotlin, Java 
 Server(서버): Naver Cloud Platform(NCP) 
 프레임워크: Spring Boot 
@@ -67,7 +67,7 @@ IDE: Android Studio
 Application Version: minSdkVersion(), targetSdkVersion() 
 API: KAKAO Login API 
 ㅡㅡㅡ 
-##Collaborations## 
+# Collaborations 
 Pigma, Notion, Git, Discord, Swagger 
 
 
