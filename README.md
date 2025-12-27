@@ -2,7 +2,7 @@
 
 - App Name: 담담(DamDam) 
 - Google Play Store: https://play.google.com/store/apps/details?id=com.lucky7.DamDam
-- Instagram: @damdam._.official
+- Instagram: @damdam._.official [Click here to try](https://www.instagram.com/damdam._.official/)
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/001ed789-a7c9-4494-aa20-16149954dcba" />
 <br />
@@ -70,6 +70,7 @@ MVVM 패턴
     
 
 <br />    
+
 # Development Environment / Tools (개발환경 및 툴) 
 - Language(언어): Kotlin, Java 
 - Server(서버): Naver Cloud Platform(NCP) 
@@ -77,9 +78,10 @@ MVVM 패턴
 - IDE: Android Studio 
 - Application Version: minSdkVersion(), targetSdkVersion() 
 - API: KAKAO Login API 
-
-
+    
+    
 <br />    
+
 # Collaborations 
 - Pigma
 - Notion
