@@ -79,8 +79,8 @@
 <br />    
 
 # 💻 Development Environment / Tools 
-- Language(언어): Kotlin, Java 
-- Server(서버): Naver Cloud Platform(NCP) 
+- Language: Kotlin, Java 
+- Server: Naver Cloud Platform(NCP) 
 - 프레임워크: Spring Boot 
 - IDE: Android Studio 
 - Application Version: minSdkVersion(), targetSdkVersion() 
