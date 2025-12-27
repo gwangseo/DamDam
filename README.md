@@ -35,16 +35,19 @@ Instagram: @damdam._.official
 담담과 함께라면, 오늘의 대화가 내일의 관계로 이어집니다.
 지금, 진짜 대화를 시작해보세요. 🌿
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21eafa59-0b5b-4883-82c4-43821c28d30d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/90775c66-ac3f-4652-b250-0cb0a0076644" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a69f6da8-bc15-476b-bd3c-98733430955c" />
 
 
 # Teemates:
-임○○: 기획자 
-김○○: 디자인 
-김○○: 디자인 
-이○○: 백엔드
-최○○: 백엔드
-박광서: 안드로이드 앱개발 
-
+- 임○○: 기획자 
+- 김○○: 디자인 
+- 김○○: 디자인 
+- 이○○: 백엔드
+- 최○○: 백엔드
+- 박광서: 안드로이드 앱개발 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98cff6ee-51d3-40ab-a363-2cdf841f8ec7" />
 
 
 # My Role: 안드로이드 앱개발 
