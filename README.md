@@ -80,10 +80,12 @@
 
 # 💻 Development Environment / Tools 
 - Language: Kotlin, Java 
+- MinSDK: 31 (Android 12)
+- TargetSDK: 35 (Android 15)
+- CompileSDK: 36
 - Server: Naver Cloud Platform(NCP) 
 - 프레임워크: Spring Boot 
 - IDE: Android Studio 
-- Application Version: minSdkVersion(), targetSdkVersion() 
 - API: KAKAO Login API 
 - 아키텍처: Clean Architecture, MVVM
 - 네트워킹: Retrofit, OkHttp 
