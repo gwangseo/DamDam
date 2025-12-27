@@ -1,4 +1,4 @@
-# DamDam
+# 담담 - 깊은 대화로 이끌어주는 대화 주제 추천 앱 
 
 - App Name: 담담(DamDam) 
 - Google Play Store: [Click here to try](https://play.google.com/store/apps/details?id=com.lucky7.DamDam)
