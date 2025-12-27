@@ -5,6 +5,7 @@
 - Instagram: @damdam._.official
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/001ed789-a7c9-4494-aa20-16149954dcba" />
+<br />
 
 # App Description:
 
@@ -38,7 +39,7 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21eafa59-0b5b-4883-82c4-43821c28d30d" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/90775c66-ac3f-4652-b250-0cb0a0076644" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a69f6da8-bc15-476b-bd3c-98733430955c" />
-
+<br />
 
 # Teemates:
 - 임○○: 기획자 
@@ -48,7 +49,7 @@
 - 최○○: 백엔드
 - 박광서: 안드로이드 앱개발 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98cff6ee-51d3-40ab-a363-2cdf841f8ec7" />
-
+<br />
 
 # My Role: 안드로이드 앱개발 
 
@@ -68,7 +69,7 @@ MVVM 패턴
 
 
 
-
+<br />
 # Development Environment / Tools (개발환경 및 툴) 
 - Language(언어): Kotlin, Java 
 - Server(서버): Naver Cloud Platform(NCP) 
@@ -78,7 +79,7 @@ MVVM 패턴
 - API: KAKAO Login API 
 
 
-
+<br />
 # Collaborations 
 - Pigma
 - Notion
