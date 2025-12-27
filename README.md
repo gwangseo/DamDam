@@ -1,8 +1,8 @@
 # DamDam
 
 - App Name: 담담(DamDam) 
-- Google Play Store: https://play.google.com/store/apps/details?id=com.lucky7.DamDam
-- Instagram: @damdam._.official [Click here to try](https://www.instagram.com/damdam._.official/)
+- Google Play Store: [Click here to try](https://play.google.com/store/apps/details?id=com.lucky7.DamDam)
+- Instagram: @damdam._.official [Click here for official instagram](https://www.instagram.com/damdam._.official/)
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/001ed789-a7c9-4494-aa20-16149954dcba" />
 <br />
