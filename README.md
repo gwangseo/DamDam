@@ -63,15 +63,13 @@
 # 📝 My Role: 안드로이드 앱개발 
 
 **안드로이드 앱개발**      
-     
-클린 아키텍처(UI, Domain, Data 분리) 
-MVVM 패턴    
+      
    
 - 홈 화면 
 - 카카오 소셜 로그인 
 - 유저 프로필 관리 
 - 맞춤형 대화 주제 추천 
-- 백엔드와 연동 (Retrofit, OkHttp) 
+- 백엔드와 연동 
 - 대화 기록 관리 및 히스토리 조회, 즐겨찾기 
 - 대화 분석 리포트 생성 시스템 
 - Jetpack Compose 기반 인터페이스 (곡선형/반응형 커스템 네비게이션) 
@@ -80,14 +78,17 @@ MVVM 패턴
 <br />   
 <br />    
 
-# 💻 Development Environment / Tools (개발환경 및 툴) 
+# 💻 Development Environment / Tools 
 - Language(언어): Kotlin, Java 
 - Server(서버): Naver Cloud Platform(NCP) 
 - 프레임워크: Spring Boot 
 - IDE: Android Studio 
 - Application Version: minSdkVersion(), targetSdkVersion() 
 - API: KAKAO Login API 
-   
+- 아키텍처: Clean Architecture, MVVM
+- 네트워킹: Retrofit, OkHttp 
+- 인증: Kakao SDK
+    
 <br />   
 <br />    
 
