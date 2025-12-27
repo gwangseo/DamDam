@@ -1,5 +1,8 @@
 # 담담 - 깊은 대화로 이끌어주는 대화 주제 추천 앱 
-
+   
+<br />   
+<br />   
+   
 - App Name: 담담(DamDam) 
 - Google Play Store: [Click here to try](https://play.google.com/store/apps/details?id=com.lucky7.DamDam)
 - Instagram: @damdam._.official [Click here for official instagram](https://www.instagram.com/damdam._.official/)
@@ -7,7 +10,7 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/001ed789-a7c9-4494-aa20-16149954dcba" />
 <br />
 
-# App Description:
+# 📝 App Description:
 
 담담은 친구, 연인, 가족, 혹은 처음 만난 사람과의 대화를 더 깊고 의미 있게 만들어주는 AI 기반 대화 지원 서비스입니다.
 표면적인 대화에서 벗어나, 서로의 생각과 감정을 이해하고 공감할 수 있도록 돕습니다.
@@ -41,7 +44,7 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a69f6da8-bc15-476b-bd3c-98733430955c" />
 <br />
 
-# Teemates:
+# 👨‍👩‍👧‍👦 Teemates:
 - 임○○: 기획자 
 - 김○○: 디자인 
 - 김○○: 디자인 
@@ -51,7 +54,7 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98cff6ee-51d3-40ab-a363-2cdf841f8ec7" />
 <br />
 
-# My Role: 안드로이드 앱개발 
+# 📝 My Role: 안드로이드 앱개발 
 
 **안드로이드 앱개발**      
      
@@ -71,7 +74,7 @@ MVVM 패턴
 
 <br />    
 
-# Development Environment / Tools (개발환경 및 툴) 
+# 💻 Development Environment / Tools (개발환경 및 툴) 
 - Language(언어): Kotlin, Java 
 - Server(서버): Naver Cloud Platform(NCP) 
 - 프레임워크: Spring Boot 
@@ -82,7 +85,7 @@ MVVM 패턴
     
 <br />    
 
-# Collaborations 
+# 🤜🤛 Collaborations 
 - Pigma
 - Notion
 - Git
